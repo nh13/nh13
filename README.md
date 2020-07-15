@@ -1,16 +1,19 @@
-### Hi there 👋
+_I **improve human lives**_
+<br>
+_by **creating software**_
+<br>
+_for **biologists and clinicians**_
+<br>
+_to **accelerate breakthroughs in genomics science**_
 
-<!--
-**nh13/nh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :microscope: I’m currently working on bioinformatics methods, tools, and pipelines
+- :zap: Fun fact: most of my software is private; keep it secret, keep it safe!
+- :mailbox: How to reach me: [twitter][twitter-link], [linkedin][linkedin-link], [personal email][email-personal-link], or [work email][email-work-link]
+- :office: See more code at [fulcrumgenomics on github][fulcrumgenomics-github-link] or visit us at [fulcrumgenomics on the web][fulcrumgenomics-site-link]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[twitter-link]:                https://twitter.com/nilshomer
+[linkedin-link]:               https://www.linkedin.com/in/nilshomer/
+[email-personal-link]:         mailto:nilshomer@gmail.com
+[email-work-link]:             mailto:nils@fulcrumgenomics.com
+[fulcrumgenomics-github-link]: http://www.fulcrumgenomics.com
+[fulcrumgenomics-site-link]:   https://github.com/fulcrumgenomics
