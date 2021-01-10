@@ -15,5 +15,5 @@ _to **accelerate breakthroughs in genomics science**_
 [linkedin-link]:               https://www.linkedin.com/in/nilshomer/
 [email-personal-link]:         mailto:nilshomer@gmail.com
 [email-work-link]:             mailto:nils@fulcrumgenomics.com
-[fulcrumgenomics-github-link]: http://www.fulcrumgenomics.com
-[fulcrumgenomics-site-link]:   https://github.com/fulcrumgenomics
+[fulcrumgenomics-github-link]: https://github.com/fulcrumgenomics
+[fulcrumgenomics-site-link]:   http://www.fulcrumgenomics.com
