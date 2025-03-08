@@ -11,7 +11,7 @@ _to **accelerate breakthroughs in genomics science**_
 - :mailbox: How to reach me: [bluesky][bluesky-link], [linkedin][linkedin-link], [personal email][email-personal-link], or [work email][email-work-link]
 - :office: See more code at [fulcrumgenomics on github][fulcrumgenomics-github-link] or visit us at [fulcrumgenomics on the web][fulcrumgenomics-site-link]
 
-[bluesky-link]:                [https://twitter.com/nilshomer](https://bsky.app/profile/nilshomer.com)
+[bluesky-link]:                https://bsky.app/profile/nilshomer.com
 [linkedin-link]:               https://www.linkedin.com/in/nilshomer/
 [email-personal-link]:         mailto:nilshomer@gmail.com
 [email-work-link]:             mailto:nils@fulcrumgenomics.com
